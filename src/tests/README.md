@@ -7,3 +7,5 @@ Proyecto realizado para el taller práctico del SENA sobre Git, GitHub y CI.
 - `npm test` — ejecuta los tests  
 - `npm run format:check` — verifica formato  
 - `npm run format:write` — corrige formato automáticamente  
+
+Este proyecto incluye una interfaz básica con una lista y un botón para agregar elementos.
