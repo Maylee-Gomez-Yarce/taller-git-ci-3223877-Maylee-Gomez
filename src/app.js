@@ -3,8 +3,7 @@ export function suma(a, b) {
 }
 
 export function agregarItem(texto) {
-    
-if (typeof texto !== "string") return; // validación extra
+  if (typeof texto !== 'string') return; // validación extra
 
   const lista = document.getElementById('lista');
   if (!lista) return;
